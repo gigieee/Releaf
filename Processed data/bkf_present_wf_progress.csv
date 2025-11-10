@@ -1,60 +1,134 @@
 wfo_id,scraped_name,scrape_status
+wfo-0000990767,,"retry_4: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
+"
+wfo-0000192577,,"retry_4: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
+"
+wfo-0000271586,,"retry_4: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
+"
+wfo-0000270922,,"retry_4: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
+"
 wfo-0000412593,,"retry_4: Message: 
 Stacktrace:
-0   chromedriver                        0x0000000102d733d8 cxxbridge1$str$ptr + 2941356
-1   chromedriver                        0x0000000102d6b094 cxxbridge1$str$ptr + 2907752
-2   chromedriver                        0x00000001028822c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
-3   chromedriver                        0x00000001028c98b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
-4   chromedriver                        0x000000010290ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
-5   chromedriver                        0x00000001028bdf18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
-6   chromedriver                        0x0000000102d3581c cxxbridge1$str$ptr + 2688496
-7   chromedriver                        0x0000000102d39038 cxxbridge1$str$ptr + 2702860
-8   chromedriver                        0x0000000102d16634 cxxbridge1$str$ptr + 2561032
-9   chromedriver                        0x0000000102d39910 cxxbridge1$str$ptr + 2705124
-10  chromedriver                        0x0000000102d07ed4 cxxbridge1$str$ptr + 2501800
-11  chromedriver                        0x0000000102d59a40 cxxbridge1$str$ptr + 2836500
-12  chromedriver                        0x0000000102d59bc4 cxxbridge1$str$ptr + 2836888
-13  chromedriver                        0x0000000102d6ace4 cxxbridge1$str$ptr + 2906808
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
 14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
 15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
 "
 wfo-0000249451,,"retry_4: Message: 
 Stacktrace:
-0   chromedriver                        0x0000000102d733d8 cxxbridge1$str$ptr + 2941356
-1   chromedriver                        0x0000000102d6b094 cxxbridge1$str$ptr + 2907752
-2   chromedriver                        0x00000001028822c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
-3   chromedriver                        0x00000001028c98b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
-4   chromedriver                        0x000000010290ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
-5   chromedriver                        0x00000001028bdf18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
-6   chromedriver                        0x0000000102d3581c cxxbridge1$str$ptr + 2688496
-7   chromedriver                        0x0000000102d39038 cxxbridge1$str$ptr + 2702860
-8   chromedriver                        0x0000000102d16634 cxxbridge1$str$ptr + 2561032
-9   chromedriver                        0x0000000102d39910 cxxbridge1$str$ptr + 2705124
-10  chromedriver                        0x0000000102d07ed4 cxxbridge1$str$ptr + 2501800
-11  chromedriver                        0x0000000102d59a40 cxxbridge1$str$ptr + 2836500
-12  chromedriver                        0x0000000102d59bc4 cxxbridge1$str$ptr + 2836888
-13  chromedriver                        0x0000000102d6ace4 cxxbridge1$str$ptr + 2906808
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
 14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
 15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
 "
-wfo-0000958157,Acalypha kerrii Craib,ok
-wfo-0000950668,Acalypha hispida Burm.f.,ok
 wfo-0001291160,,"retry_4: Message: 
 Stacktrace:
-0   chromedriver                        0x0000000102d733d8 cxxbridge1$str$ptr + 2941356
-1   chromedriver                        0x0000000102d6b094 cxxbridge1$str$ptr + 2907752
-2   chromedriver                        0x00000001028822c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
-3   chromedriver                        0x00000001028c98b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
-4   chromedriver                        0x000000010290ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
-5   chromedriver                        0x00000001028bdf18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
-6   chromedriver                        0x0000000102d3581c cxxbridge1$str$ptr + 2688496
-7   chromedriver                        0x0000000102d39038 cxxbridge1$str$ptr + 2702860
-8   chromedriver                        0x0000000102d16634 cxxbridge1$str$ptr + 2561032
-9   chromedriver                        0x0000000102d39910 cxxbridge1$str$ptr + 2705124
-10  chromedriver                        0x0000000102d07ed4 cxxbridge1$str$ptr + 2501800
-11  chromedriver                        0x0000000102d59a40 cxxbridge1$str$ptr + 2836500
-12  chromedriver                        0x0000000102d59bc4 cxxbridge1$str$ptr + 2836888
-13  chromedriver                        0x0000000102d6ace4 cxxbridge1$str$ptr + 2906808
+0   chromedriver                        0x00000001011f33d8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x00000001011eb094 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100d022c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100d498b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100d8ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100d3df18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001011b581c cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001011b9038 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000101196634 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001011b9910 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000101187ed4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x00000001011d9a40 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x00000001011d9bc4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x00000001011eace4 cxxbridge1$str$ptr + 2906808
 14  libsystem_pthread.dylib             0x0000000196245c0c _pthread_start + 136
 15  libsystem_pthread.dylib             0x0000000196240b80 thread_start + 8
 "
